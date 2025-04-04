@@ -12,6 +12,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/homemade-frozen-mango-pops/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/zesty-lemon-garlic-grilled-chickeningredients/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -22,7 +32,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/dessert/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/salads/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/dinner/
         </loc>
     </url>
     <url>
