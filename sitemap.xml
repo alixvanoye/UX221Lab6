@@ -2,17 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/watermelon-mint-salad/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/spring/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/shorts-weather/
+            http://localhost:8000/easy-no-bake-summer-berry-parfait/
         </loc>
     </url>
     <url>
@@ -22,7 +17,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/summer-recipes/
         </loc>
     </url>
     <url>
